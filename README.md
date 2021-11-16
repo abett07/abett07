@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abett Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Cyber Security Enthusiast,Full-Time learner and Part-Time Youtuber  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abett07&label=Profile%20views&color=0e75b6&style=flat" alt="abett07" /> </p>
 
@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/abett-reddy-cheruku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abett-reddy-cheruku" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abett-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abett-reddy" height="30" width="40" /></a>
 <a href="https://instagram.com/techwithabett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techwithabett" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucke6wdf-fivskm9toxbadlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucke6wdf-fivskm9toxbadlw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/techwithabett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techwithabett" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
